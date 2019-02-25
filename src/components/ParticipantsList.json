@@ -1,0 +1,58 @@
+{
+   "Participants":[
+       {
+           "id" : "1",
+           "name" : "Oleg",
+           "email" : "Oleg@Oleg.com",
+           "phoneNumber" : "0413234567"
+       },
+       {
+           "id" : "2",
+           "name" : "Igor",
+           "email" : "Igor@Igor.com",
+           "phoneNumber" : "0412234567"
+       },
+       {
+           "id" : "3",
+           "name" : "Elen",
+           "email" : "Elen@Elen.com",
+           "phoneNumber" : "0412434567"
+       },
+       {
+           "id" : "4",
+           "name" : "Viktor",
+           "email" : "Viktor@Viktor.com",
+           "phoneNumber" : "0412134567"
+       },
+       {
+           "id" : "5",
+           "name" : "Misha",
+           "email" : "Misha@Misha.com",
+           "phoneNumber" : "0412354567"
+       },
+       {
+           "id" : "6",
+           "name" : "Roman",
+           "email" : "Roman@Roman.com",
+           "phoneNumber" : "0412345667"
+       },
+       {
+           "id" : "7",
+           "name" : "Nikolay",
+           "email" : "Nikolay@Nikolay.com",
+           "phoneNumber" : "0412342567"
+       },
+       {
+           "id" : "8",
+           "name" : "John",
+           "email" : "John@John.com",
+           "phoneNumber" : "0412334567"
+       },
+       {
+           "id" : "9",
+           "name" : "Vasya",
+           "email" : "Vasya@Vasya.com",
+           "phoneNumber" : "0412345567"
+       }
+   ] 
+}
