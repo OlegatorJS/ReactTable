@@ -10,7 +10,7 @@ This repository contains the files related to the app. The `master` branch conta
     ```
 2. **install node_modules into this repository**
     ```sh
-    cd react-table
+    cd ReactTable
     npm install
     ```
 3. **run react-app on the localhost**
