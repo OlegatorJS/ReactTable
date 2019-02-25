@@ -19,3 +19,4 @@ This repository contains the files related to the app. The `master` branch conta
     ````
 #
 
+![Image alt](https://github.com/OlegatorJS/ReactTable/raw/master/src/Screenshot_62.png)
